@@ -20,8 +20,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,github,firebase" /><br>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,c" /><br>
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,fluttergithub,firebase" /><br>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,c" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,vscode,figma,xd,ps,ai,ae,git" />
 </div>
   <br/><br/><br/>
