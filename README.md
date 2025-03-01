@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 🌍 I'm based in Algerai 
+ 🌍 I'm based in Algeria 
  
  </div>
 
