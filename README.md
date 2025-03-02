@@ -22,7 +22,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,github,firebase" /><br>
   <img src="https://skillicons.dev/icons?i=java,kotlin,dart,c" /><br>
-    <img src="https://skillicons.dev/icons?i=flutter,figma,pr,ps,ae,git" />
+    <img src="https://skillicons.dev/icons?i=flutter,figma,ps,pr,ae,git" />
 </div>
   <br/><br/><br/>
 <hr/>
