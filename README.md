@@ -34,11 +34,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-one-lovat-sttvyh40k7.vercel.app/api?username=ki1lux&show_icons=true&count_private=true&bg_color=0D0A14&hide_border=true&title_color=FFA500&text_color=D4B8E0&icon_color=7B5EA7&ring_color=FFA500" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ki1lux&background=0D0A14&hide_border=true&stroke=5C4060&ring=FFA500&fire=C8671A&currStreakNum=FFA500&sideNums=D4B8E0&currStreakLabel=7B5EA7&sideLabels=7B5EA7&dates=FFA500" height="165"/>
+  <img src="https://github-readme-stats-one-lovat-sttvyh40k7.vercel.app/api?username=ki1lux&show_icons=true&count_private=true&bg_color=0D0A14&border_color=614465&title_color=FFA500&text_color=fbf9fc&icon_color=7B5EA7&ring_color=FFA500" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ki1lux&background=0D0A14&border=614465&stroke=5C4060&ring=FFA500&fire=C8671A&currStreakNum=FFA500&sideNums=fbf9fc&currStreakLabel=7B5EA7&sideLabels=7B5EA7&dates=d48900"height="165" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats-one-lovat-sttvyh40k7.vercel.app/api/top-langs/?username=ki1lux&layout=compact&langs_count=8&bg_color=0D0A14&hide_border=true&title_color=FFA500&text_color=D4B8E0" />
+  <img src="https://github-readme-stats-one-lovat-sttvyh40k7.vercel.app/api/top-langs/?username=ki1lux&layout=compact&langs_count=8&bg_color=0D0A14&border_color=614465&title_color=FFA500&text_color=fbf9fc" />
 </div>
 
 
