@@ -34,12 +34,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-one-lovat-sttvyh40k7.vercel.app/api?username=ki1lux&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ki1lux&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-one-lovat-sttvyh40k7.vercel.app/api?username=ki1lux&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ki1lux&theme=gruvbox&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-one-lovat-sttvyh40k7.vercel.app/api/top-langs/?username=ki1lux&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-one-lovat-sttvyh40k7.vercel.app/api/top-langs/?username=ki1lux&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
 </div>
 
 
