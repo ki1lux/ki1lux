@@ -34,12 +34,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-one-lovat-sttvyh40k7.vercel.app/api?username=ki1lux&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ki1lux&theme=gruvbox&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-one-lovat-sttvyh40k7.vercel.app/api?username=ki1lux&show_icons=true&count_private=true&bg_color=0D0A14&border_color=5C4060&title_color=FFA500&text_color=D4B8E0&icon_color=7B5EA7&ring_color=FFA500" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ki1lux&background=0D0A14&border=5C4060&stroke=5C4060&ring=FFA500&fire=C8671A&currStreakNum=FFA500&sideNums=D4B8E0&currStreakLabel=7B5EA7&sideLabels=7B5EA7&dates=5C4060" height="165"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats-one-lovat-sttvyh40k7.vercel.app/api/top-langs/?username=ki1lux&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-one-lovat-sttvyh40k7.vercel.app/api/top-langs/?username=ki1lux&layout=compact&langs_count=8&bg_color=0D0A14&border_color=5C4060&title_color=FFA500&text_color=D4B8E0" />
 </div>
 
 
