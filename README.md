@@ -25,7 +25,7 @@
 <br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java" /><br>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,firebase,supabase,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,linux,firebase,supabase,figma" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,c,ps,pr,ae" /><br>
 </div>
 
