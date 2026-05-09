@@ -16,7 +16,9 @@
 </p>
 
 <p align="center">
-  <img width="480" height="360" alt="GIF by Carl Burton" src="https://github.com/user-attachments/assets/babe0654-fcee-464d-9ebd-cdab31544a65" />
+<img width="400" height="480" alt="art loop GIF by Carl Burton" src="https://github.com/user-attachments/assets/4d2068f2-3e4d-4cc4-b6fb-463b990af17f" />
+
+
 
 </p>
 
