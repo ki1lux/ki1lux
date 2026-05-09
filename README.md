@@ -16,7 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="banner" width="600"/>
+  <img width="480" height="360" alt="GIF by Carl Burton" src="https://github.com/user-attachments/assets/babe0654-fcee-464d-9ebd-cdab31544a65" />
+
 </p>
 
 ---
